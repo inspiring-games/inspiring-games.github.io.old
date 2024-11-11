@@ -1,0 +1,12 @@
+{
+  "name": "Inspiring Games App Source",
+  "subtitle": "Get the good stuff here",
+  "description": "These are all my games published for iOS.",
+  "website": "https://inspiring.games",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "games.inspiring.mathrocket"
+  ],
+  "apps": [],
+  "news": [],
+}
